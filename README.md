@@ -10,7 +10,8 @@ Example of use:
 
 - Input Image:
 
-![input](docs/input.jpg)
+<img src="docs/input.jpg" alt="drawing" width="200"/>
+
 
 - Output Image:
 
