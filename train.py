@@ -89,7 +89,7 @@ num_epochs = 10
 # initialize the Averager
 loss_hist = engine.Averager()
 
-iou_thresholds = [x for x in np.arange(0.5, 0.76, 0.05)]
+iou_thresholds = [x for x in np.arange(0.5, 0.96, 0.05)]
 
 train_loss = []
 precision = []
