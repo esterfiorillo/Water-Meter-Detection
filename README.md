@@ -47,7 +47,7 @@ python3 train.py --img_path images --bbx_path bbxs
 
 This will save a model file in your local directory and will produce the following loss and precision graphs:
 
-![loss](docs/loss.png) ![precision](docs/precision.png)
+![loss](docs/loss.png) ![precision](docs/precision_0.5_0.95.png)
 
 
 ### Make inferences
